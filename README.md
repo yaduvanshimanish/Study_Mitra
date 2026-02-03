@@ -196,11 +196,11 @@ Contributions are welcome!
 
 ## 👤 Author
 
-**Manish Kumar**
-**Divyanshu Rajput**
-**Divyanshu Tiwari**
-**Akarsh Kushwaha**
-AI & ML Enthusiast | B.Tech III year stud
+* Manish Kumar
+* Divyanshu Rajput
+* Divyanshu Tiwari
+* Akarsh Kushwaha
+* AI & ML Enthusiast | B.Tech III year stud
 
 ---
 
